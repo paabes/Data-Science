@@ -7,7 +7,7 @@ A random walk is a path that has no clear direction but is determined by a serie
 ![alt text](https://github.com/paabes/Data-Science/blob/main/random_walks/render_extracts/random_n%3D5000.png "n = 5k")
 ![alt text](https://github.com/paabes/Data-Science/blob/main/random_walks/render_extracts/n%3D50k.png "n = 50k")
 ![alt text](https://github.com/paabes/Data-Science/blob/main/random_walks/render_extracts/random_walk.png "Random Walk")
-![alt text](https://github.com/paabes/Data-Science/blob/main/random_walks/render_extracts/pollen_grain_randomPath.png "Molecular Motion")
+![alt text](https://github.com/paabes/Data-Science/blob/main/random_walks/render_extracts/molecular_motion.png "Molecular Motion")
 
 # plotly_dice: Overview
 
