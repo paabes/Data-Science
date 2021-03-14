@@ -114,8 +114,8 @@ if __name__ == '__main__':
     # The scatter plots appear behind the lines. To place them on top of the lines, we can use the zorder argument.
     # Plot elements with higher zorder values are placed on top of elements with lower zorder values.
 
-    plt.plot(rw.x_values, rw.y_values, linewidth=1, color='green', zorder=1)
-    plt.scatter(0, 0, c='blue', edgecolors='none', s=100, zorder=2)
+    plt.plot(rw.x_values, rw.y_values, linewidth=1, color='deepskyblue', zorder=1)
+    plt.scatter(0, 0, c='green', edgecolors='none', s=100, zorder=2)
     plt.scatter(rw.x_values[-1], rw.y_values[-1], c='red', edgecolors='none',
                s=100, zorder=2)
     ax.get_xaxis().set_visible(False)
