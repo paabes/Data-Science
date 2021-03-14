@@ -1,4 +1,6 @@
-# London Apartament Price Estimation: Overview
+# London Apartament Price Estimation
+
+## Overview:
 
 The aim of this project was to create a regression model, which would later be deployed to a simple flask server.
 
