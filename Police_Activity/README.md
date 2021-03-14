@@ -3,7 +3,7 @@
 
 This project explores the "Stanford Open Policing Project" dataset and analyzes the impact of gender, race, violation type, timing of pulling over, weather and location on police behavior and hence on interaction outcome.
 
-some of the questiones that I explored were:
+**Some of the questiones that I explored were:**
 
 * whether male and female drivers tend to commit different types of traffic violations.
 * does gender affect who gets a ticket for speeding or search rates?
