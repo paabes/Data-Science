@@ -23,6 +23,8 @@ A random walk is a path that has no clear direction but is determined by a serie
 
 * Switches to using multiplication as a metric for obtaining result, instead of addition of individual outcomes.
 
+### The results are plotted using oth pygal in the scalable vector graphics form and plotly, graphs can be seen in the plotly_output directory.
+
 
 
 
