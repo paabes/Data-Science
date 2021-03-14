@@ -17,5 +17,5 @@ This project explores the "Stanford Open Policing Project" dataset and analyzes 
 
 ## Plot Extracts:
 
-![alt text](https://github.com/paabes/Data-Science/blob/main/Police_Activity/plots_extracts/drug_stops.png "Drug Related Stops")
-![alt text](https://github.com/paabes/Data-Science/blob/main/Police_Activity/plots_extracts/violation_per_district.png "Violations Per District")
+![alt text](https://github.com/paabes/Data-Science/blob/main/Police%20Activity%20Analytics/plots_extracts/drug_stops.png "Drug Related Stops")
+![alt text](https://github.com/paabes/Data-Science/blob/main/Police%20Activity%20Analytics/plots_extracts/violation_per_district.png "Violations Per District")
