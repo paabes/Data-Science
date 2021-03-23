@@ -1,3 +1,14 @@
-# Data-Science
+# Natural Language Processing: Amazon Review Data Classification
+## Project Overview:
 
-this repository contains some of my personal projects and challenges related to data science and data analysis. Each directory within it is essentially sub-repository for a separate project.
+Imagine you are in charge of feedback analytics at amazon, you are provided with the raw product review data and your task is to route it to appropriate parties that can handle questions related to product categories that they are concerned with. your first step would be to classify the dataset into distinct categories, such that people who perform sentiment analysis on book-related items don't have to deal with the expired food complaints.
+
+This project aims to do precisely that, it attempts to experiment with different natural language processing techiques to achieve highest classification accuracy on amazon reviews dataset stored in json format.
+
+Some of the techniques employed are:
+
+* **Bag of words**
+* **Word embedding** (word vectors)
+* **lemitising** and **Stemming** words
+* **Stopwords** removal
+* Fine-tuning **Bert Model**
